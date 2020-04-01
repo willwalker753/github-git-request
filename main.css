@@ -1,0 +1,9 @@
+* {
+    font-family: sans-serif;
+}
+input {
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+    margin-bottom: 10px;
+}
